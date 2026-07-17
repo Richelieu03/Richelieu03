@@ -1,4 +1,4 @@
-# Richelieu03.github.io
+# Richelieu03
 # 👋 Hello, I'm Ashley Zhou
 
 **Master of IT Student @ UNSW | Backend & Full-Stack Developer**
