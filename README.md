@@ -69,5 +69,5 @@ Real-time wireless ECG acquisition and visualisation for animals.
 [![Tarot App](https://img.shields.io/badge/Live%20Demo-Ashley's%20Tarot-7C3AED?logo=netlify&logoColor=white)](https://ashleystarot.netlify.app)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richelieu03&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashley's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Richelieu03&show_icons=true&theme=tokyonight&hide_border=false" alt="Ashley's GitHub Stats" height="160" />
 </p>
