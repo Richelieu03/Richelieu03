@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ashley Zhou
 
-**Master of IT @ UNSW · Backend & Full-Stack Developer · Exploring Robotics**
+**Master of IT @ UNSW · Backend & Full-Stack Developer · Exploring Embodied AI**
 
-I build reliable backend systems and AI-powered web apps, and I'm increasingly drawn to software that interacts with the physical world. My background spans medical informatics (BLE-based biomedical devices), backend engineering for healthcare data, and, more recently, camera-driven interactive hardware.
+I build reliable backend systems and AI-powered web apps, and I'm increasingly drawn to **embodied AI**: intelligence that perceives and acts in the physical world. My background spans medical informatics (BLE-based biomedical devices), backend engineering for healthcare data, and, more recently, camera-driven interactive hardware.
 
-- 🔭 Currently: Master of IT at UNSW, moving my postgraduate project toward **robotics**
-- 🌱 Learning: computer vision, embodied interaction, servo / microcontroller control
+- 🔭 Currently: Master of IT at UNSW, moving my postgraduate project toward **embodied AI**
+- 🌱 Learning: computer vision, perception-to-action pipelines, LLM-driven agents in the physical world
 - 💬 Ask me about: backend architecture, LLM-powered apps, BLE & medical devices
 
 ---
@@ -67,7 +67,3 @@ Real-time wireless ECG acquisition and visualisation for animals.
 [![Email](https://img.shields.io/badge/Email-AshleyZhou2003%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:AshleyZhou2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashleyzhou2003-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashleyzhou2003)
 [![Tarot App](https://img.shields.io/badge/Live%20Demo-Ashley's%20Tarot-7C3AED?logo=netlify&logoColor=white)](https://ashleystarot.netlify.app)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richelieu03&show_icons=true&theme=tokyonight&hide_border=false" alt="Ashley's GitHub Stats" height="160" />
-</p>
